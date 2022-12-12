@@ -14,10 +14,10 @@ Hiring process is the fundamental and the most important function of a company. 
 
 ## Task
 
-* How many males and females are Hired ?
+* How many males and females are hired ?
 * What is the average salary offered in this company ?
 * Draw the class intervals for salary in the company ?
-* Draw Pie Chart / Bar Graph ( or any other graph ) to show proportion of people working different department ?
+* Draw Pie Chart / Bar Graph ( or any other graph ) to show proportion of people working in different department ?
 * Represent different post tiers using chart/graph?
 
 
