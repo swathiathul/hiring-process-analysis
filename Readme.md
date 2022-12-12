@@ -1,7 +1,7 @@
 
 # Hiring Process Analytics
 
-The Hiring process is the fundamental and most important function of a company. Here, the MNCs get to learn about the major underlying trends in the hiring process. Trends such as the number of rejections, number of interviews, types of jobs, vacancies, etc. are important for a company to analyse before hiring freshers or any other individual. The major task includes:
+The Hiring process is the fundamental and most important function of a company. Here, the MNCs get to learn about the major underlying trends in the hiring process. Trends such as the number of rejections, number of interviews, types of jobs, vacancies, etc. are important for a company to analyse before hiring freshers or any other individual.
 
 ## Steps for EDA
 
